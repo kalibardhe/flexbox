@@ -43,3 +43,9 @@
     justify-content: space-between;
 }
 
+.social,
+.logo,
+.subscribe {
+    border: 1px solid #5995DA;
+}
+

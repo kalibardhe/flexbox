@@ -88,3 +88,7 @@
     height: 200px;
     flex: 1;
 }
+
+.footer-three {
+    flex: 2;
+}
